@@ -1,6 +1,6 @@
 [![](https://poggit.pmmp.io/shield.state/RaisingEgg)]
 <div align="center">
-<h1>RaisingEgg| v1.0.0<h1>
+<h1>RaisingEgg | v1.0.0<h1>
 <p>Nourish And Nurture Eggs</p>
 </div>
 
